@@ -1,10 +1,10 @@
 Hi, I'm Rajeswar Reddy, a Clooud Engineer with 3+ years of experience in AWS, Java, Spring Boot, DevOps, and cloud-native applications.
 
-☁️ Experienced with AWS, Docker, Kubernetes, and Jenkins
-💻 Build Java/Spring Boot microservices and REST APIs
-🚀 Interested in Cloud, DevOps, and scalable applications
-🔧 Enjoy solving technical problems and improving application performance
-🎓 Master's in Information Systems and Technology
+☁️ Experienced with AWS, Docker, Kubernetes, and Jenkins.
+💻 Build Java/Spring Boot microservices and REST APIs.
+🚀 Interested in Cloud, DevOps, and scalable applications.
+🔧 Enjoy solving technical problems and improving application performance.
+🎓 Master's in Information Systems and Technology.
 
 I'm always learning and exploring new technologies to build better and more reliable cloud applications.
 
